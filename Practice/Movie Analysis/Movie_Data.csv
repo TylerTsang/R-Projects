@@ -1,4 +1,4 @@
-Day of Week,Director,Genre,MovieTitle,ReleaseDate,Studio,AdjustedGrossMillions,BudgetMillions,GrossMillions,AudienceRating,CriticRating,OverseasMillions,Overseas%,ProfitMillions,Profit%,Runtime (min),US ($mill),Gross % US
+DayofWeek,Director,Genre,MovieTitle,ReleaseDate,Studio,AdjustedGrossMillions,BudgetMillions,GrossMillions,AudienceRating,CriticRating,OverseasMillions,OverseasPercent,ProfitMillions,ProfitPercent,RuntimeMinutes,USMillions,GrossPercentUS
 Friday,Brad Bird,action,Tomorrowland,22/05/2015,Buena Vista Studios,202.1,170,202.1,6.7,3.26,111.9,55.4,32.1,18.9,130,90.2,44.6
 Friday,Scott Waugh,action,Need for Speed,14/03/2014,Buena Vista Studios,204.2,66,203.3,6.6,2.97,159.7,78.6,137.3,208,132,43.6,21.4
 Friday,Patrick Hughes,action,The Expendables 3,15/08/2014,Lionsgate,207.1,100,206.2,6.1,2.93,166.9,80.9,106.2,106.2,126,39.3,19.1
